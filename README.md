@@ -102,7 +102,30 @@ TV ads see moderate investment (~3.5M) but lower engagement and conversions, sug
 
 Billboards, with the lowest spend (~1.5M), yield the fewest clicks (~2.5M) and conversions (~50K), indicating minimal performance impact.
 
-![image](https://github.com/user-attachments/assets/7dbaf99c-e0b0-4153-add2-001c5fe8e444)
+![image](https://github.com/user-attachments/assets/63bb050d-33cc-4cfb-bd52-7c890759772b)
+
+Balanced Gender Revenue: Revenue is evenly split between genders — Males: $6.12M (50.19%), Females: $6.07M (49.81%).
+
+Top Customer Segments:
+
+Income: Middle-income earners drive the most revenue, followed by Lower-Middle.
+
+Education: Bachelor’s degree holders lead with over $4M, while revenue declines with higher degrees.
+
+Marital Status: Married customers contribute the most — over $5M, far ahead of other groups.
+
+Product Performance:
+
+Electronics dominate, generating $5M+, with Apparel and Beauty each bringing in over $3M.
+
+Operational Excellence:
+
+84.76% of orders are successfully Delivered.
+
+Low friction: Only 3.07% Returned, 1.96% Cancelled — a sign of high customer satisfaction.
+
+
+
 
 
 
