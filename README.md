@@ -16,11 +16,11 @@ The dataset includes transactional, customer, product, inventory, and marketing 
 
 The data is organized across multiple tables:
 
-* `Transactions`: Sales data including date, product ID, customer ID, revenue, and profit.
+* `Sales`: Sales data including date, product ID, customer ID, revenue, and profit.
 * `Customers`: Demographics including gender, age, marital status, income, education.
 * `Products`: Product details including category, brand, and stock info.
 * `Marketing`: Campaign performance data across channels.
-* `Orders`: Operational data covering delivery status and fulfillment rates.
+* `Operations`: Operational data covering delivery status and fulfillment rates.
 
 ## Tool Used
 
@@ -45,54 +45,102 @@ The data is organized across multiple tables:
 
 ## Executive Summary
 
-* Year-over-Year (YoY) Revenue and Transaction Growth: 33.4%
-* Customer Growth: 7%
-* Profit: \$3.57M | Average Order Value (AOV): \$248.61
-* Churn Rate: 15% | 85.05% revenue from loyal customers
-* High operational success: \~90% completed orders
+
 
 ## Insights
-![image](https://github.com/user-attachments/assets/a0cd3fda-8987-4460-8026-1d2a1c1492a2)
+
+![image](https://github.com/user-attachments/assets/d4d9ead7-e093-4477-81ab-249871a4708d)
+
+ Strong Growth & Profitability
+
+The business is thriving with 33.4% YoY growth in both revenue and transactions.
+
+Customer base is expanding at 7%, pointing to increased customer value or strong new acquisition.
+
+High profit of $3.57M, healthy AOV of $248.61, and excellent order completion rate (89.99%) reflect strong operational efficiency.
+
+Churn remains low at 0.15, supporting long-term customer retention.
+
+💰 Revenue & Profit Drivers
+
+Electronics leads in both revenue and profit, with Beauty and Apparel following closely.
+
+Sportswear, Makeup, and Bath & Body drive top profit; Oral Care consistently underperforms.
+
+Maybelline dominates as the top product in both revenue and profit, followed by Adidas Hoodies and Samsung Smartphones.
+
+A balanced multi-channel strategy is evident — all channels contribute well to revenue.
+
+Marketplace leads in Electronics profit
+
+Online for Beauty
+
+Retail Stores for Apparel
+
+Low and Mid discounts drive the bulk of both revenue and profit, proving moderate discounts are more effective than high or no discounts.
+
+👥 Customer & Loyalty Dynamics
+
+Married customers and the 31–50 age group are the largest contributors to both revenue and loyalty.
+
+Mid-income customers are the most loyal and also lead in revenue, though they show moderate churn risk.
+
+High-income customers have the highest churn, despite their value.
+
+Customers with a Bachelor’s Degree drive the highest revenue across education levels.
+
+⚠️ Churn Insights
+
+While churn is low overall:
+
+31–50 and 18–30 age groups show the highest churn.
+
+High and Mid-income segments are more likely to churn than low-income.
+
+Gender has no significant churn impact.
+
+📍 Geographic Focus
+
+Colorado and New Jersey are top states for customer concentration.
+
+South Michael stands out in revenue.
+
+Revenue clusters are forming in the Midwest and Mountain West, suggesting regional growth opportunities.
+
+
+![image](https://github.com/user-attachments/assets/79518100-8320-4725-80da-a191d9e2682d)
+Churn Rate Trends:
+
+Age: Customers aged 31–50 and 18–30 show the highest churn, signaling instability in younger segments. In contrast, 51–80 age group has the lowest churn, reflecting stronger retention.
+
+Gender: Churn is nearly identical between females (0.146) and males (0.151) — gender is not a churn driver.
+
+Income: High-income customers churn the most (≈0.20), followed by mid-income (≈0.15). Low-income customers are the most loyal, with churn rates around 0.05–0.08.
+
+💎 Loyal Customer Profile:
+
+Income Group: Mid-income customers dominate loyalty, with over 30K loyal customers—our strongest segment. High and low-income groups lag far behind (under 5K each).
+
+Age Group: Most loyal customers are aged 31–50 (21K / 50.48%), followed by 51–80 (14K / 33.54%) and 18–30 (7K / 15.98%).
+
+Marital Status: Married customers lead in loyalty (~20K), followed by singles (~17K). Divorced and widowed groups form a small minority.
+
+![image](https://github.com/user-attachments/assets/5b67c368-c7f8-48c5-b899-33180cc41882)
+Revenue Performance:
+Sportswear dominates revenue, far ahead of other sub-categories. Computers and Makeup also perform well, while Oral Care and Bath & Body lag behind. Maybelline is the top-selling product by a large margin, followed by Adidas Hoodies, Samsung Smartphones, and Panasonic. Colgate Toothpaste ranks lowest in revenue. All four sales channels—Online, Retail Store, Mobile App, and Marketplace—contribute significantly, showcasing a strong multi-channel strategy.
+
+Profit Performance:
+Maybelline is also the most profitable product, followed by Dove Body and Adidas Hoodies. Colgate Toothpaste brings in the least profit.
+
+Customer Demographics & Loyalty:
+Loyalty is evenly split between males (50.25%) and females (49.75%), with ~21K loyal customers per gender—indicating gender-neutral customer retention.
+
+Geographic Reach:
+Colorado and New Jersey have the highest customer counts, marking them as key markets.
 
 
 
- YoY Growth: Revenue & transactions grew by 33.4%; customer base by 7%
-
-Customer Retention: 85% of revenue came from loyal (non-churned) customers
-
-Category Trends:
-
-Electronics lead in revenue but fluctuate
-
-Apparel shows rapid growth from a low base
-
-Beauty is second highest but unstable
-
-Top Product: Sportswear (Apparel) is the highest-grossing item
-
-High-Revenue States: Texas, Nevada, Colorado, South Dakota, Minnesota, Kentucky, Maine, New Jersey
-![image](https://github.com/user-attachments/assets/ccb267aa-2992-4b9c-a8ea-8bbb580976e0)
-
-The company recorded a $3.57M profit, with an average order value of $248.61 and a low churn rate of 0.15, indicating strong customer retention. Operationally, 89.99% of orders were completed, 8.05% failed, and 1.96% were processing, reflecting high fulfillment efficiency.
-
-Electronics led in revenue and profit but showed fluctuations. Beauty, second in profit, also fluctuated, while Apparel, though lowest in revenue, grew exponentially. Subcategory-wise, Sportswear topped profits significantly, followed by Makeup, Bath & Body, Smartphones, Televisions, and Appliances. Oral Care had the lowest profit.
-
-In terms of demographics, the 31–50 age group generated the most revenue, followed by 51–80, while 18–30 contributed the least. For discount impact, low discounts drove the highest revenue and profit, followed by mid discounts. High and no discounts had minimal impact on both revenue and profit.
-![image](https://github.com/user-attachments/assets/4b9261ed-6df4-46c9-8d16-4b0686a0c6f8)
-Loyalty is strongest among the Middle and Lower-Middle income groups, making them key segments for retention and growth. The Married demographic dominates the loyal customer base, followed by Singles, suggesting that relationship status influences loyalty. Across age groups, loyalty distribution between genders is nearly equal, showing no gender-based bias.
-
-Churn analysis reveals that gender is not a major churn factor, with nearly identical churn rates for males (0.151) and females (0.146). However, age and income levels do play a role. The 31–50 age group churns the most, followed by 18–30, while 51–80 shows the least churn—despite being a strong revenue contributor. The Upper-Middle income group has the highest churn, even though they’re not the most loyal.
-
-![image](https://github.com/user-attachments/assets/925b421f-0a3c-4fa9-9a98-1c3f88674524)
-Males aged 31–50 emerge as the most loyal segment, consistently engaging with the brand and contributing significantly to repeat purchases.
-
-When it comes to performance by channel, the Online store dominates, generating the highest revenue and profit—a clear indicator of strong digital engagement and efficient online operations.
-
-In terms of product performance, Electronics stands out as the top-performing category, leading in both revenue and profitability, signaling a strong demand and healthy margins in this segment.
-
-Colorado takes the lead as the state with the highest number of customers, making it a key geographic area for continued marketing and service delivery focus.
-
-![image](https://github.com/user-attachments/assets/e11b8b05-82b1-4c7f-a367-35859904c5dc)
+![image](https://github.com/user-attachments/assets/5ce5203f-db6a-4d17-8e8e-595690b7a522)
 
 Email marketing leads across all metrics—highest spend (~9M), most clicks (~10M), and top conversions (200K+)—making it the most impactful channel.
 
@@ -102,85 +150,55 @@ TV ads see moderate investment (~3.5M) but lower engagement and conversions, sug
 
 Billboards, with the lowest spend (~1.5M), yield the fewest clicks (~2.5M) and conversions (~50K), indicating minimal performance impact.
 
-![image](https://github.com/user-attachments/assets/63bb050d-33cc-4cfb-bd52-7c890759772b)
+![image](https://github.com/user-attachments/assets/c6b1b15d-5dcc-47f8-9cea-6cf8ff5caf79)
 
-Balanced Gender Revenue: Revenue is evenly split between genders — Males: $6.12M (50.19%), Females: $6.07M (49.81%).
+Churn Insights
+By Age Group:
 
-Top Customer Segments:
+Ages 31–50 show the highest churn (~0.15–0.18), followed by 18–30.
 
-Income: Middle-income earners drive the most revenue, followed by Lower-Middle.
+Ages 51–80 exhibit the lowest churn (~0.05–0.08), indicating strong retention among older customers.
 
-Education: Bachelor’s degree holders lead with over $4M, while revenue declines with higher degrees.
+By Gender:
 
-Marital Status: Married customers contribute the most — over $5M, far ahead of other groups.
+Minimal difference in churn — Female: 0.146, Male: 0.151.
 
-Product Performance:
+Gender is not a strong churn predictor.
 
-Electronics dominate, generating $5M+, with Apparel and Beauty each bringing in over $3M.
+By Income Group:
 
-Operational Excellence:
+High-income customers churn the most (≈0.20), despite their value.
 
-84.76% of orders are successfully Delivered.
+Mid-income churn is moderate (~0.15).
+Low-income customers are the most retained (~0.05–0.08).
 
-Low friction: Only 3.07% Returned, 1.96% Cancelled — a sign of high customer satisfaction.
+Loyalty Insights
+By Income Group:
+
+Mid-income customers dominate loyalty — 30K+ loyal users.
+
+ Low and High-income groups each account for <5K loyal users.
+
+By Age Group:
+
+ 31–50 is the most loyal segment (21K, 50.48%).
+
+ 51–80 follows with 14K (33.54%).
+
+ 18–30 is least loyal, contributing just 7K (15.98%).
+
+By Marital Status:
+
+ Married customers are the most loyal (~20K).
+
+ Singles are close behind (~17K).
+
+ Divorced/Widowed show minimal loyalty.
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-### 1. Business Performance
-
-* Strong YoY growth in both revenue and transactions
-* Slower growth in customer acquisition compared to sales
-
-### 2. Inventory Issues
-
-* High manual adjustments and stockouts for key products:
-
-  * Anderson-Wagner Organizer
-  * Nelson Doll Score210
-  * Li-Evans Yarn Skein
-  * Miller Feeder
-
-### 3. Customer Demographics
-
-* Gender split is even, but females show greater loyalty
-* Married and single customers drive most of the revenue
-* Middle and lower-middle income groups dominate
-
-### 4. Product & Category Trends
-
-* Electronics leads in profitability
-* Apparel generates the most revenue across channels
-* Top products include Maybelline, Dove, Adidas, and Samsung
-
-### 5. Sales Channel Performance
-
-* Mobile App most profitable for Electronics
-* Online best for Beauty
-* Retail Stores best for Apparel
-* Marketplace has the lowest profit contribution
-
-### 6. Marketing Campaigns
-
-* Email and Social Media dominate in conversions
-* TV and Billboard underperform in direct response
-
-### 7. Operations & Fulfillment
-
-* 90%+ order completion and delivery success
-* Low returns and failure rates
-* Pending and processing orders need active monitoring
 
 ## Deep Dive
 
