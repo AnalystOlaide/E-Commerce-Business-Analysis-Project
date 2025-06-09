@@ -53,6 +53,34 @@ The data is organized across multiple tables:
 
 ## Insights
 ![image](https://github.com/user-attachments/assets/8eef3d7c-a66d-4f3e-9b71-17f8c5a112ba)
+ Key Insights:
+YoY Growth:
+
+Revenue & Transactions grew by 33.4%
+
+Customer base grew by 7%
+
+Customer Retention:
+
+85% of revenue is generated from retained customers
+
+Revenue by Category:
+
+Electronics leads in revenue but is volatile
+
+Apparel has the fastest growth, despite lowest total revenue
+
+Beauty is the second-highest but also fluctuates
+
+Top Revenue States:
+
+Texas, Nevada, Colorado, South Dakota, Minnesota, Kentucky, Maine, New Jersey
+
+Marketing Performance:
+
+Email and Social Media campaigns have the highest ROI
+
+TV and Billboard campaigns underperform
 ![image](https://github.com/user-attachments/assets/056a2cd3-86d6-4a68-affa-5671867aac89)
 ![image](https://github.com/user-attachments/assets/5cef2480-2ed8-4e11-94bd-654da7df0a7e)
 ![image](https://github.com/user-attachments/assets/6fd3abea-dd7b-4c7e-9107-24a1f467be09)
