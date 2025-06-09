@@ -52,40 +52,63 @@ The data is organized across multiple tables:
 * High operational success: \~90% completed orders
 
 ## Insights
-![image](https://github.com/user-attachments/assets/8eef3d7c-a66d-4f3e-9b71-17f8c5a112ba)
- Key Insights:
-YoY Growth:
+![image](https://github.com/user-attachments/assets/a0cd3fda-8987-4460-8026-1d2a1c1492a2)
 
-Revenue & Transactions grew by 33.4%
 
-Customer base grew by 7%
 
-Customer Retention:
+ YoY Growth: Revenue & transactions grew by 33.4%; customer base by 7%
 
-85% of revenue is generated from retained customers
+Customer Retention: 85% of revenue came from loyal (non-churned) customers
 
-Revenue by Category:
+Category Trends:
 
-Electronics leads in revenue but is volatile
+Electronics lead in revenue but fluctuate
 
-Apparel has the fastest growth, despite lowest total revenue
+Apparel shows rapid growth from a low base
 
-Beauty is the second-highest but also fluctuates
+Beauty is second highest but unstable
 
-Top Revenue States:
+Top Product: Sportswear (Apparel) is the highest-grossing item
 
-Texas, Nevada, Colorado, South Dakota, Minnesota, Kentucky, Maine, New Jersey
+High-Revenue States: Texas, Nevada, Colorado, South Dakota, Minnesota, Kentucky, Maine, New Jersey
+![image](https://github.com/user-attachments/assets/ccb267aa-2992-4b9c-a8ea-8bbb580976e0)
 
-Marketing Performance:
+The company recorded a $3.57M profit, with an average order value of $248.61 and a low churn rate of 0.15, indicating strong customer retention. Operationally, 89.99% of orders were completed, 8.05% failed, and 1.96% were processing, reflecting high fulfillment efficiency.
 
-Email and Social Media campaigns have the highest ROI
+Electronics led in revenue and profit but showed fluctuations. Beauty, second in profit, also fluctuated, while Apparel, though lowest in revenue, grew exponentially. Subcategory-wise, Sportswear topped profits significantly, followed by Makeup, Bath & Body, Smartphones, Televisions, and Appliances. Oral Care had the lowest profit.
 
-TV and Billboard campaigns underperform
-![image](https://github.com/user-attachments/assets/056a2cd3-86d6-4a68-affa-5671867aac89)
-![image](https://github.com/user-attachments/assets/5cef2480-2ed8-4e11-94bd-654da7df0a7e)
-![image](https://github.com/user-attachments/assets/6fd3abea-dd7b-4c7e-9107-24a1f467be09)
-![image](https://github.com/user-attachments/assets/49606a3d-ccec-42cf-87ff-d21a68726605)
-![image](https://github.com/user-attachments/assets/e706994c-37d2-4c43-99cb-d5e5036f7ee5)
+In terms of demographics, the 31–50 age group generated the most revenue, followed by 51–80, while 18–30 contributed the least. For discount impact, low discounts drove the highest revenue and profit, followed by mid discounts. High and no discounts had minimal impact on both revenue and profit.
+![image](https://github.com/user-attachments/assets/4b9261ed-6df4-46c9-8d16-4b0686a0c6f8)
+Loyalty is strongest among the Middle and Lower-Middle income groups, making them key segments for retention and growth. The Married demographic dominates the loyal customer base, followed by Singles, suggesting that relationship status influences loyalty. Across age groups, loyalty distribution between genders is nearly equal, showing no gender-based bias.
+
+Churn analysis reveals that gender is not a major churn factor, with nearly identical churn rates for males (0.151) and females (0.146). However, age and income levels do play a role. The 31–50 age group churns the most, followed by 18–30, while 51–80 shows the least churn—despite being a strong revenue contributor. The Upper-Middle income group has the highest churn, even though they’re not the most loyal.
+
+![image](https://github.com/user-attachments/assets/925b421f-0a3c-4fa9-9a98-1c3f88674524)
+Males aged 31–50 emerge as the most loyal segment, consistently engaging with the brand and contributing significantly to repeat purchases.
+
+When it comes to performance by channel, the Online store dominates, generating the highest revenue and profit—a clear indicator of strong digital engagement and efficient online operations.
+
+In terms of product performance, Electronics stands out as the top-performing category, leading in both revenue and profitability, signaling a strong demand and healthy margins in this segment.
+
+Colorado takes the lead as the state with the highest number of customers, making it a key geographic area for continued marketing and service delivery focus.
+
+![image](https://github.com/user-attachments/assets/e11b8b05-82b1-4c7f-a367-35859904c5dc)
+
+Email marketing leads across all metrics—highest spend (~9M), most clicks (~10M), and top conversions (200K+)—making it the most impactful channel.
+
+Social Media follows closely with ~6M spend, 7.5M clicks, and ~150K conversions, showing strong efficiency.
+
+TV ads see moderate investment (~3.5M) but lower engagement and conversions, suggesting weaker ROI.
+
+Billboards, with the lowest spend (~1.5M), yield the fewest clicks (~2.5M) and conversions (~50K), indicating minimal performance impact.
+
+![image](https://github.com/user-attachments/assets/7dbaf99c-e0b0-4153-add2-001c5fe8e444)
+
+
+
+
+
+
 
 
 
