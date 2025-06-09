@@ -108,7 +108,14 @@ South Michael stands out in revenue.
 Revenue clusters are forming in the Midwest and Mountain West, suggesting regional growth opportunities.
 
 
-![image](https://github.com/user-attachments/assets/79518100-8320-4725-80da-a191d9e2682d)
+![image](https://github.com/user-attachments/assets/7fae7cd4-4fdf-4117-9095-befe2550c755)
+
+The e-commerce business is in excellent shape, with a total profit of $3.57M and an average order value of $248.61. Operationally, it's efficient—nearly 90% of all orders are completed successfully—and customer retention is strong, with a very low churn rate of 0.15.
+
+Electronics is the top-performing category, followed by Beauty and Apparel. Within subcategories, Sportswear is the standout profit driver, alongside Makeup, Bath & Body, Smartphones, and Televisions. In contrast, Oral Care contributes the least to revenue and profit.
+
+Demographically, the 31–50 age group is the biggest revenue contributor, followed by customers aged 51–80. The 18–30 segment lags behind. From a pricing perspective, low and mid-level discounts consistently drive the most revenue and profit, while high discounts and full-price purchases perform poorly.
+
 Churn Rate Trends:
 
 Age: Customers aged 31–50 and 18–30 show the highest churn, signaling instability in younger segments. In contrast, 51–80 age group has the lowest churn, reflecting stronger retention.
