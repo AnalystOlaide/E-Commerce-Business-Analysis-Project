@@ -125,7 +125,8 @@ Age Group: Most loyal customers are aged 31–50 (21K / 50.48%), followed by 51�
 
 Marital Status: Married customers lead in loyalty (~20K), followed by singles (~17K). Divorced and widowed groups form a small minority.
 
-![image](https://github.com/user-attachments/assets/5b67c368-c7f8-48c5-b899-33180cc41882)
+![image](https://github.com/user-attachments/assets/760139a0-d3f9-422f-99c5-77b900570bb8)
+
 Revenue Performance:
 Sportswear dominates revenue, far ahead of other sub-categories. Computers and Makeup also perform well, while Oral Care and Bath & Body lag behind. Maybelline is the top-selling product by a large margin, followed by Adidas Hoodies, Samsung Smartphones, and Panasonic. Colgate Toothpaste ranks lowest in revenue. All four sales channels—Online, Retail Store, Mobile App, and Marketplace—contribute significantly, showcasing a strong multi-channel strategy.
 
