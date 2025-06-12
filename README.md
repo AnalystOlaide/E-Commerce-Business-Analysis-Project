@@ -164,8 +164,6 @@ Social Media follows as a strong performer, while Billboard campaigns trail sign
 
 ![image](https://github.com/user-attachments/assets/4177e368-68c9-4bf5-ba77-3f66ab88713f)
 
-Here’s a concise, storytelling-style version of your analysis:
-
 This dashboard paints a clear picture of who’s buying, what they’re buying, and how well operations are running.
 
 Customer Demographics Drive Revenue
