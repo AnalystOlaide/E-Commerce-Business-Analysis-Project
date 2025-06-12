@@ -16,10 +16,6 @@ Despite strong revenue and operational performance, the business seeks to answer
 6. **Geographic Focus**: Which regions and cities offer the highest returns and opportunities for expansion?
 
 
-## Data Source
-
-The dataset includes sales, customer, product, operations, and marketing performance data extracted from an e-commerce platform’s internal database.
-
 ## Data Structure
 
 The data is organized across multiple tables:
