@@ -162,7 +162,7 @@ The marketing data reveals a clear channel hierarchy:
 Email dominates across all metrics—spend, clicks, and conversions—proving to be the most effective channel.
 Social Media follows as a strong performer, while Billboard campaigns trail significantly, delivering the lowest returns across the board.
 
-![image](https://github.com/user-attachments/assets/4177e368-68c9-4bf5-ba77-3f66ab88713f)
+![image](https://github.com/user-attachments/assets/beaf262c-b4a6-45f7-984f-2a34204ce3b2)
 
 This dashboard paints a clear picture of who’s buying, what they’re buying, and how well operations are running.
 
