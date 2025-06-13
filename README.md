@@ -49,7 +49,9 @@ The data is organized across multiple tables:
 
 ## Executive Summary
 
-The e-commerce business shows strong performance with $3.57M in profit and an average order value of $248.61. Order completion is high at 89.99%, with a low failure rate of 8.05%. The Online Store is the top-performing channel, while moderate discounts yield the best returns.
+The e-commerce business continues to demonstrate robust financial health, achieving a total profit of $3.57 million and maintaining a strong average order value (AOV) of $248.61. Customer loyalty is a standout strength, with a low churn rate of 14.88% and 85.05% of revenue ($10.37 million) generated from retained customers—underscoring the effectiveness of the platform’s engagement and satisfaction strategies.
+
+Operational efficiency is also high, with 89.99% of orders successfully completed, while only 8.05% failed and 1.96% remain in processing. The Online Store continues to be the top-performing sales channel, and insights show that moderate discounts yield the best return on investment, balancing conversion and profitability.
 
 The 31–50 age group drives over 50% of revenue, and married, mid-income customers are the most loyal and profitable. The churn rate is 14.88%, with 85.05% of revenue ($10.37M) coming from retained customers. Gender-based revenue is balanced.
 
@@ -69,10 +71,6 @@ Email marketing delivers the best ROI, followed by Social Media. Billboards show
 ## Insights Deep Dive
 
 ![image](https://github.com/user-attachments/assets/0cb877d8-d6ca-4ac3-84a3-fb52892d60ee)
-
-
-
-The e-commerce business shows strong financial performance, with a total profit of **\$3.57M** and an average order value of **\$248.61**. Customer retention remains excellent, demonstrated by a remarkably low **churn rate of 14.88%**. Operational efficiency is also high, with **89.99% of orders completed**, while only **8.05% failed** and **1.96% remain in processing**.
 
 Revenue trends across **2020 to 2023** reveal some fluctuations among the three main product categories. However, **Electronics consistently led in revenue**, followed by **Beauty** and **Apparel**. This underscores the strong consumer demand for tech and personal care products.
 
