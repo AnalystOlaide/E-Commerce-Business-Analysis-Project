@@ -6,7 +6,7 @@ This Power BI dashboard provides a comprehensive analysis of an e-commerce busin
 
 ## Problem Statement
 
-Despite strong revenue and operational performance, the business seeks to answer the following critical questions:
+Despite strong revenue and operational performance, the business is striving for sustained growth and profitability in an increasingly competitive market. To make data-driven strategic decisions, the organization needs to address key business questions that will unlock deeper insights into customer behavior, operational efficiency, and market opportunities. The business seeks to answer the following critical questions:
 
 1. **Product Performance**: Which product categories and subcategories generate the highest and lowest revenue and profit?
 2. **Customer Segmentation**: Which demographic groups (age, gender, marital status, income) contribute most to revenue and which are at risk of churn?
