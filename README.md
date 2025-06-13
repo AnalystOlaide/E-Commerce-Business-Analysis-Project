@@ -68,7 +68,8 @@ Email marketing delivers the best ROI, followed by Social Media. Billboards show
 
 ## Insights Deep Dive
 
-![image](https://github.com/user-attachments/assets/c6ff074e-f7c6-4c76-809e-b8756ba76442)
+![image](https://github.com/user-attachments/assets/0cb877d8-d6ca-4ac3-84a3-fb52892d60ee)
+
 
 
 The e-commerce business shows strong financial performance, with a total profit of **\$3.57M** and an average order value of **\$248.61**. Customer retention remains excellent, demonstrated by a remarkably low **churn rate of 14.88%**. Operational efficiency is also high, with **89.99% of orders completed**, while only **8.05% failed** and **1.96% remain in processing**.
