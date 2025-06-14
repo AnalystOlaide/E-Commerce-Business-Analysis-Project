@@ -44,7 +44,7 @@ The data is organized across multiple tables:
 1. Data Cleaning using Power Query
 2. Data Modeling by establishing relationships between tables
 3. DAX Measures for calculating KPIs (YoY Growth, AOV, Churn Rate, etc.)
-4. Dashboard Design with interactive visuals and slicers
+4. Dashboard Design with interactive visuals 
 5. Insight Extraction to inform business decisions
 
 ## Executive Summary
@@ -70,7 +70,8 @@ Email marketing delivers the best ROI, followed by Social Media. Billboards show
 
 ## Insights Deep Dive
 
-![image](https://github.com/user-attachments/assets/f6996213-90c8-40e6-a9c1-70361ec2d088)
+![image](https://github.com/user-attachments/assets/bb61cbac-d2aa-4b84-884d-66d1b369120b)
+
 
 Revenue trends across **2020 to 2023** reveal some fluctuations among the three main product categories. However, **Electronics consistently led in revenue**, followed by **Beauty** and **Apparel**. This underscores the strong consumer demand for tech and personal care products.
 
