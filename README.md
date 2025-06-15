@@ -1,17 +1,9 @@
 # E-Commerce-Business-Analysis-Project
 
 ## Project Overview
-## Project Overview
 This project aims to deliver a Power BI dashboard that provides actionable insights into an e-commerce company’s performance. The primary stakeholders include the executive team, marketing managers, and business analysts—all responsible for driving growth, enhancing customer retention, and optimizing operations.
 
 The goal is to equip decision-makers with a centralized, real-time, data-driven tool to monitor key performance metrics such as revenue, customer behavior, product trends, and channel effectiveness. This will support strategic decisions that enhance profitability, reduce churn, and identify opportunities for market expansion.
-
-🏁 What Success Looks Like
-Stakeholders can self-serve insights without relying heavily on analysts.
-Leadership makes informed, real-time decisions across all business units.
-Tangible improvements in: Customer retention, revenue from high-performing segments, marketing return on investment (ROI), operational efficiency
-The dashboard becomes a core strategic tool, used in quarterly business reviews, product launches, and planning sessions.
-This Power BI dashboard provides a comprehensive analysis of an e-commerce business, uncovering insights on overall performance, customer demographics, product and category trends, marketing efficiency, sales channels, inventory management, and operational performance.
 
 ## Problem Statement
 
@@ -23,6 +15,19 @@ Despite strong revenue and operational performance, the business is striving for
 4. **Discount Optimization**: What discount levels result in the best revenue and profit performance without harming margins?
 5. **Channel Efficiency**: Which sales and marketing channels yield the best performance in terms of conversion, revenue, and cost-efficiency?
 6. **Geographic Focus**: Which regions and cities offer the highest returns and opportunities for expansion?
+
+## Success Metrics
+- Stakeholders can **self-serve insights** without constant analyst support.
+- Leadership makes **informed, real-time decisions** across teams.
+- **Measurable improvements** in:
+  - Customer retention  
+  - Revenue from high-performing products and segments  
+  - Marketing ROI  
+  - Operational efficiency  
+- The dashboard becomes a **core strategic tool** used in:
+  - Quarterly business reviews  
+  - Planning sessions  
+  - Product and market expansion initiatives  
 
 
 ## Data Structure
