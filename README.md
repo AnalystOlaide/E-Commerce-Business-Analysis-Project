@@ -49,7 +49,7 @@ The data is organized across multiple tables:
 
 ## Executive Summary
 
-The business generated $12.4 million in revenue between 2020 and 2023, driven by a solid 33.4% year-over-year growth. Customer acquisition also showed progress, reaching 50,000 total customers with a 7% growth rate, signaling steady market expansion.
+The business generated $12.4 million in revenue between 2020 and 2023, driven by a solid 33.4% year-over-year growth, with profit of $3.6M. Customer acquisition also showed progress, reaching 50,000 total customers with a 7% growth rate, signaling steady market expansion.
 
 The e-commerce business continues to demonstrate robust financial health, achieving a total profit of $3.6 million and maintaining a strong average order value (AOV) of $249. Customer loyalty is a standout strength, with a low churn rate of 14.88% and 85.05% of revenue ($10.37 million) generated from retained customers—underscoring the effectiveness of the platform’s engagement and satisfaction strategies.
 
@@ -72,9 +72,11 @@ Email marketing delivers the best ROI, followed by Social Media. Billboards show
 
 ## Insights Deep Dive
 
-![image](https://github.com/user-attachments/assets/a7abe929-7d4e-47e9-9e68-5119c43c2faf)
+![image](https://github.com/user-attachments/assets/abeea004-940f-43a1-b3f8-7932027ef251)
 
-The business generated $12.4 million in revenue between 2020 and 2023, driven by a solid 33.4% year-over-year growth. Customer acquisition also showed progress, reaching 50,000 total customers with a 7% growth rate, signaling steady market expansion.
+
+
+The business generated $12.4 million in revenue between 2020 and 2023, driven by a solid 33.4% year-over-year growth, with profit of $3.6M. Customer acquisition also showed progress, reaching 50,000 total customers with a 7% growth rate, signaling steady market expansion.
 
 Revenue trends across **2020 to 2023** reveal some fluctuations among the three main product categories. However, **Electronics consistently led in revenue**, followed by **Beauty** and **Apparel**. This underscores the strong consumer demand for tech and personal care products.
 
@@ -95,10 +97,11 @@ These insights point to clear strategic actions:
 The business is on solid footing, and with targeted strategies around demographics, product focus, and discounting, there's clear potential for sustained and scalable growth.
 
 
-![image](https://github.com/user-attachments/assets/1a5d1377-c5fd-4452-9067-94e899a8f4a9)
+![image](https://github.com/user-attachments/assets/196cf3d5-fd57-4611-a735-b7ab5e59c738)
 
 
-The e-commerce business continues to demonstrate strong financial health, generating a total profit of $3.6M and maintaining an impressive average order value (AOV) of $249. Customer loyalty is solid, with a churn rate of just 14.9%, and 85.05% of revenue ($10.37M) coming from retained customers—highlighting the platform’s effectiveness in customer engagement and satisfaction.
+
+The e-commerce business continues to demonstrate strong financial health, generating a total advertisement spend of $20M and maintaining an impressive average order value (AOV) of $249. Customer loyalty is solid, with a churn rate of just 14.9%, and 85.05% of revenue ($10.37M) coming from retained customers—highlighting the platform’s effectiveness in customer engagement and satisfaction.
 
 Demographic insights reveal a balanced revenue contribution by gender, with males slightly ahead (50.19%, $6.12M) compared to females (49.81%, $6.07M). Married customers are the top contributors by marital status, followed by single shoppers, while divorced and widowed users contribute the least—suggesting targeting opportunities based on life stage.
 
