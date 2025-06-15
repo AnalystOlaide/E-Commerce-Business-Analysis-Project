@@ -1,7 +1,16 @@
 # E-Commerce-Business-Analysis-Project
 
 ## Project Overview
+## Project Overview
+This project aims to deliver a Power BI dashboard that provides actionable insights into an e-commerce company’s performance. The primary stakeholders include the executive team, marketing managers, and business analysts—all responsible for driving growth, enhancing customer retention, and optimizing operations.
 
+The goal is to equip decision-makers with a centralized, real-time, data-driven tool to monitor key performance metrics such as revenue, customer behavior, product trends, and channel effectiveness. This will support strategic decisions that enhance profitability, reduce churn, and identify opportunities for market expansion.
+
+🏁 What Success Looks Like
+Stakeholders can self-serve insights without relying heavily on analysts.
+Leadership makes informed, real-time decisions across all business units.
+Tangible improvements in: Customer retention, revenue from high-performing segments, marketing return on investment (ROI), operational efficiency
+The dashboard becomes a core strategic tool, used in quarterly business reviews, product launches, and planning sessions.
 This Power BI dashboard provides a comprehensive analysis of an e-commerce business, uncovering insights on overall performance, customer demographics, product and category trends, marketing efficiency, sales channels, inventory management, and operational performance.
 
 ## Problem Statement
@@ -49,7 +58,7 @@ The data is organized across multiple tables:
 
 ## Executive Summary
 
-The business generated $12.4 million in revenue between 2020 and 2023, driven by a solid 33.4% year-over-year growth, with profit of $3.6M. Customer acquisition also showed progress, reaching 50,000 total customers with a 7% growth rate, signaling steady market expansion.
+The business generated $12.4 million in revenue between 2020 and 2023, driven by a solid 33.4% year-over-year growth, advertisement spend of $20M and  profit of $3.6M. Customer acquisition also showed progress, reaching 50,000 total customers with a 7% growth rate, signaling steady market expansion.
 
 The e-commerce business continues to demonstrate robust financial health, achieving a total profit of $3.6 million and maintaining a strong average order value (AOV) of $249. Customer loyalty is a standout strength, with a low churn rate of 14.88% and 85.05% of revenue ($10.37 million) generated from retained customers—underscoring the effectiveness of the platform’s engagement and satisfaction strategies.
 
