@@ -49,7 +49,9 @@ The data is organized across multiple tables:
 
 ## Executive Summary
 
-The e-commerce business continues to demonstrate robust financial health, achieving a total profit of $3.57 million and maintaining a strong average order value (AOV) of $248.61. Customer loyalty is a standout strength, with a low churn rate of 14.88% and 85.05% of revenue ($10.37 million) generated from retained customers—underscoring the effectiveness of the platform’s engagement and satisfaction strategies.
+The business generated $12.4 million in revenue between 2020 and 2023, driven by a solid 33.4% year-over-year growth. Customer acquisition also showed progress, reaching 50,000 total customers with a 7% growth rate, signaling steady market expansion.
+
+The e-commerce business continues to demonstrate robust financial health, achieving a total profit of $3.6 million and maintaining a strong average order value (AOV) of $249. Customer loyalty is a standout strength, with a low churn rate of 14.88% and 85.05% of revenue ($10.37 million) generated from retained customers—underscoring the effectiveness of the platform’s engagement and satisfaction strategies.
 
 Operational efficiency is also high, with 89.99% of orders successfully completed, while only 8.05% failed and 1.96% remain in processing. The Online Store continues to be the top-performing sales channel, and insights show that moderate discounts yield the best return on investment, balancing conversion and profitability.
 
@@ -70,8 +72,9 @@ Email marketing delivers the best ROI, followed by Social Media. Billboards show
 
 ## Insights Deep Dive
 
-![image](https://github.com/user-attachments/assets/bb61cbac-d2aa-4b84-884d-66d1b369120b)
+![image](https://github.com/user-attachments/assets/a7abe929-7d4e-47e9-9e68-5119c43c2faf)
 
+The business generated $12.4 million in revenue between 2020 and 2023, driven by a solid 33.4% year-over-year growth. Customer acquisition also showed progress, reaching 50,000 total customers with a 7% growth rate, signaling steady market expansion.
 
 Revenue trends across **2020 to 2023** reveal some fluctuations among the three main product categories. However, **Electronics consistently led in revenue**, followed by **Beauty** and **Apparel**. This underscores the strong consumer demand for tech and personal care products.
 
@@ -92,9 +95,10 @@ These insights point to clear strategic actions:
 The business is on solid footing, and with targeted strategies around demographics, product focus, and discounting, there's clear potential for sustained and scalable growth.
 
 
-![image](https://github.com/user-attachments/assets/9dea9778-3ab1-4980-bb0f-80c2552e1313)
+![image](https://github.com/user-attachments/assets/1a5d1377-c5fd-4452-9067-94e899a8f4a9)
 
-The e-commerce business continues to demonstrate strong financial health, generating a total profit of $3.57M and maintaining an impressive average order value (AOV) of $248.61. Customer loyalty is solid, with a churn rate of just 14.88%, and 85.05% of revenue ($10.37M) coming from retained customers—highlighting the platform’s effectiveness in customer engagement and satisfaction.
+
+The e-commerce business continues to demonstrate strong financial health, generating a total profit of $3.6M and maintaining an impressive average order value (AOV) of $249. Customer loyalty is solid, with a churn rate of just 14.9%, and 85.05% of revenue ($10.37M) coming from retained customers—highlighting the platform’s effectiveness in customer engagement and satisfaction.
 
 Demographic insights reveal a balanced revenue contribution by gender, with males slightly ahead (50.19%, $6.12M) compared to females (49.81%, $6.07M). Married customers are the top contributors by marital status, followed by single shoppers, while divorced and widowed users contribute the least—suggesting targeting opportunities based on life stage.
 
@@ -104,7 +108,7 @@ Discounting strategy proves to be a key revenue and profit lever. The low discou
 
 ![image](https://github.com/user-attachments/assets/a188bb53-51fb-4b47-bf90-ae8d62a4ee95)
 
-The e-commerce platform maintains a generally healthy customer base, with valuable insights emerging from churn and loyalty patterns across demographic segments. Although the overall churn rate is reported at 14.88%, a closer look at specific demographics reveals key opportunities for both retention and strategic targeting.
+The e-commerce platform maintains a generally healthy customer base, with valuable insights emerging from churn and loyalty patterns across demographic segments. Although the overall churn rate is reported at 14.9%, a closer look at specific demographics reveals key opportunities for both retention and strategic targeting.
 
 Demographic Insights: Churn and Loyalty
 
