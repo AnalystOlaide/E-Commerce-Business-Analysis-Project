@@ -86,7 +86,8 @@ Email marketing delivers the best ROI, followed by Social Media. Billboards show
 
 ## Insights Deep Dive
 
-![image](https://github.com/user-attachments/assets/abeea004-940f-43a1-b3f8-7932027ef251)
+<img width="989" height="558" alt="image" src="https://github.com/user-attachments/assets/84325f7a-6966-4a29-b411-9346d2688c95" />
+
 
 
 
