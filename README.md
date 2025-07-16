@@ -91,7 +91,7 @@ Email marketing delivers the best ROI, followed by Social Media. Billboards show
 
 
 
-The business generated $12.4 million in revenue between 2020 and 2023, driven by a solid 33.4% year-over-year growth, with profit of $3.6M. Customer acquisition also showed progress, reaching 50,000 total customers with a 7% growth rate, signaling steady market expansion.
+The business generated $12 million in revenue, an increase from $9 million in the previous year, driven by a solid 33.4% year-over-year growth. Profit reached $3.6 million, up from $2.68 million in the previous year, also showing a strong 33.4% year-over-year growth. Customer acquisition also showed progress, reaching 50,000 total customers, an increase from 47,000 customers in the previous year, with a 7% year-over-year growth rate, signaling steady market expansion.
 
 Revenue trends across **2020 to 2023** reveal some fluctuations among the three main product categories. However, **Electronics consistently led in revenue**, followed by **Beauty** and **Apparel**. This underscores the strong consumer demand for tech and personal care products.
 
