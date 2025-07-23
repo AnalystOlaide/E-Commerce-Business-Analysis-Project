@@ -63,35 +63,46 @@ The data is organized across multiple tables:
 
 ## Executive Summary
 
-The business generated $12.4 million in revenue between 2020 and 2023, driven by a solid 33.4% year-over-year growth, advertisement spend of $20M and  profit of $3.6M. Customer acquisition also showed progress, reaching 50,000 total customers with a 7% growth rate, signaling steady market expansion.
+The business generated $12.4 million in revenue between 2020 and 2023, reflecting a 34.4% year-over-year growth from the previous year’s $9.2 million. Customer count reached 50,000, up by 7% from 47,000. Despite these positive growth indicators, the company recorded a -$16.5 million loss in profit, marking a steep -715.2% year-over-year decline from the previous year’s $2.68 million profit. A total of $20 million was spent on advertising during this period.
 
-The e-commerce business continues to demonstrate robust financial health, achieving a total profit of $3.6 million and maintaining a strong average order value (AOV) of $249. Customer loyalty is a standout strength, with a low churn rate of 14.88% and 85.05% of revenue ($10.37 million) generated from retained customers—underscoring the effectiveness of the platform’s engagement and satisfaction strategies.
+The average order value (AOV) stood at $249, while the customer churn rate was 14.9%, signaling a stable but vulnerable retention landscape. 85.05% of revenue ($10.37 million) was driven by retained customers, reinforcing customer loyalty as a strength despite profitability challenges.
 
-Operational efficiency is also high, with 89.99% of orders successfully completed, while only 8.05% failed and 1.96% remain in processing. The Online Store continues to be the top-performing sales channel, and insights show that moderate discounts yield the best return on investment, balancing conversion and profitability.
+From a marketing performance standpoint, customer acquisition cost (CAC) was $401, while customer lifetime value (CLTV) trailed at $254—a clear signal that the business is spending significantly more to acquire customers than it earns from them over time. Despite a healthy click-through rate (CTR) of 5% and a low cost per click (CPC) of $0.80, the conversion rate remained low at 2%, and cost per acquisition (CPA) was $40. These metrics suggest high engagement but weak purchase intent or conversion friction.
 
-The 31–50 age group drives over 50% of revenue, and married, mid-income customers are the most loyal and profitable. The churn rate is 14.88%, with 85.05% of revenue ($10.37M) coming from retained customers. Gender-based revenue is balanced.
+Channel-level performance revealed a distinct hierarchy:
 
-Electronics lead in both revenue and profit—key focus for continued investment.
+Email marketing led across all metrics—spend efficiency, clicks, and conversions—making it the top-performing and most cost-effective channel.
 
-Apparel performs lowest, suggesting reevaluation or repositioning.
+Social Media delivered moderate results.
 
-Sportswear tops subcategories in both revenue and profit, followed by Computers and Makeup.
+Billboard campaigns severely underperformed—high cost, low conversion, and poor return on investment.
 
-Oral Care underperforms across all metrics—consider improvement or discontinuation.
+From an operational lens, 89.99% of orders were completed successfully, with 8.05% failing and 1.96% still processing. The Online Store remains the most productive sales channel. Product discounting analysis showed that moderate discounts yielded the highest returns, balancing volume and margin effectively.
 
-Geographically, South Dakota, New Jersey, and Kentucky lead in revenue, with Colorado having the highest customer base. Cities like South Michael and New Michael are top contributors.
+On the customer front, the 31–50 age group drove over 50% of revenue, but also had the highest churn rate, identifying them as both high-value and high-risk. Married, mid-income customers remained the most loyal and profitable segment, while revenue was evenly split across genders.
 
-Email marketing delivers the best ROI, followed by Social Media. Billboards show weak performance.
+From a product performance view:
+
+Electronics dominated both revenue and profit—justifying continued investment.
+
+Apparel underperformed—warranting reevaluation or strategic repositioning.
+
+Sportswear led all subcategories in both revenue and profit, followed by Computers and Makeup.
+
+Oral Care consistently underperformed across all key metrics—potentially a candidate for discontinuation.
+
+Regionally, South Dakota, New Jersey, and Kentucky led in revenue, while Colorado hosted the largest customer base. Cities like South Michael and New Michael stood out as top-performing urban areas.
 
 
 ## Insights Deep Dive
 
-<img width="989" height="558" alt="image" src="https://github.com/user-attachments/assets/84325f7a-6966-4a29-b411-9346d2688c95" />
+<img width="992" height="561" alt="image" src="https://github.com/user-attachments/assets/c6e1e6d3-0537-4321-8954-af3e9921563f" />
 
 
 
 
-The business generated $12 million in revenue, an increase from $9 million in the previous year, driven by a solid 33.4% year-over-year growth. Profit reached $3.6 million, up from $2.68 million in the previous year, also showing a strong 33.4% year-over-year growth. Customer acquisition also showed progress, reaching 50,000 total customers, an increase from 47,000 customers in the previous year, with a 7% year-over-year growth rate, signaling steady market expansion.
+
+The business generated $12.4 million in revenue, up from $9.2 million the previous year, reflecting a 34.4% year-over-year growth. However, the company reported a loss of -$16.5 million in profit, a sharp decline from $2.68 million profit in the prior year, marking a -715.2% year-over-year drop. Despite this financial setback, customer acquisition continued to rise, with the customer base reaching 50,000, up from 47,000—representing a 7% year-over-year growth and signaling ongoing market expansion.
 
 Revenue trends across **2020 to 2023** reveal some fluctuations among the three main product categories. However, **Electronics consistently led in revenue**, followed by **Beauty** and **Apparel**. This underscores the strong consumer demand for tech and personal care products.
 
@@ -176,11 +187,21 @@ Samsung Smart...
 
 This diverse mix—spanning cosmetics, personal care, apparel, and electronics—reflects broad consumer interest and successful category management. These products not only drive profit but also highlight high-demand trends and brand preference.
 
-![image](https://github.com/user-attachments/assets/fa2a134a-ae8c-4342-aa29-308871df02e5)
+<img width="986" height="554" alt="image" src="https://github.com/user-attachments/assets/f2e8cf43-dd21-48a6-a7d6-5f4ebab8395c" />
 
-The marketing data reveals a clear channel hierarchy:
-Email dominates across all metrics—spend, clicks, and conversions—proving to be the most effective channel.
-Social Media follows as a strong performer, while Billboard campaigns trail significantly, delivering the lowest returns across the board.
+
+The marketing data reveals a clear channel hierarchy:Between 2020 and 2023, the business invested $20 million in advertising and attracted a total customer base of 50,000, representing a 7% increase from the previous year. However, a closer look at marketing performance reveals key gaps affecting profitability and acquisition efficiency.
+
+The average Customer Acquisition Cost stands at $401, while the Customer Lifetime Value is only $254, indicating that the business is losing money on each acquired customer over time. This gap highlights a critical imbalance between acquisition investment and long-term customer value.
+
+Engagement metrics show mixed results. The Click-Through Rate is relatively strong at 5%, and the Cost per Click is low at $0.80, signaling effective ad reach and interest. However, the Conversion Rate is just 2%, indicating friction in the user journey—many users click but fail to complete purchases. Additionally, the Cost per Acquisition is $40, suggesting efficient initial conversions that are not translating into retained, profitable customers.
+
+Channel-Level Performance
+Email emerged as the most effective channel—driving the highest performance across spend, clicks, and conversions.
+
+Social Media showed moderate engagement and conversion effectiveness.
+
+TV and Billboard campaigns underperformed, generating the lowest ROI despite media spend.
 
 ![image](https://github.com/user-attachments/assets/478270b2-da20-435e-b154-2353d543d126)
 
@@ -201,75 +222,47 @@ Order completion is strong: About 90% of orders are completed successfully, indi
 
 # Recommendations
 
-## 🎯 1. Focus on High-Profit and High-Demand Products
-- Double down on **Electronics** and **Sportswear**, which consistently lead in both revenue and profit.
-- Prioritize **Makeup**, **Bath & Body**, **Smartphones**, and **Appliances**—these subcategories show strong profitability and sustained consumer interest.
-- Reevaluate or reposition low-performing products such as **Oral Care** through bundling, rebranding, or discontinuation.
+1. Optimize Acquisition Strategy
+Reassess marketing investments by prioritizing high-performing channels such as Email and Social Media. Pause or significantly reduce budget allocation to underperforming channels like TV and Billboards. Implement a performance-based budgeting framework to maximize return on advertising spend (ROAS) and ensure long-term profitability of customer acquisition efforts.
 
-## 👥 2. Target the Right Demographics
-- The **31–50 age group** generates the highest revenue but also shows the highest churn.
-  - Implement loyalty programs, personalized offers, and targeted messaging to enhance retention.
-- Boost engagement among the **18–30 segment** with:
-  - Gamified experiences  
-  - Influencer collaborations  
-  - Discounts for students and young professionals
-- Maintain engagement with the **51–80 age group**, the most loyal customer segment.
+2. Reduce Customer Acquisition Cost
+Improve targeting and lead qualification strategies to enhance conversion quality. Introduce retargeting campaigns and behavioral segmentation to reduce acquisition cost. Focus investment on channels with historically lower cost per acquisition and demonstrated engagement, while scaling back on broad-reach campaigns with low ROI.
 
-## 💍 3. Segment by Life Stage and Income
-- **Married customers** are the most loyal—design campaigns around family needs, lifestyle bundles, and exclusive offers.
-- **Mid-income earners** drive the highest revenue and loyalty.
-  - Use tailored pricing and value-added services (e.g., free shipping, loyalty rewards).
-- Target **low-income segments** with budget-friendly bundles or flexible payment options.
+3. Increase Customer Lifetime Value
+Deploy retention-driven programs including loyalty schemes, referral incentives, and personalized post-purchase experiences. Strengthen email automation flows to drive re-engagement, cross-sells, and upsells. Emphasize retention strategies among mid- and high-income segments, which have shown higher lifetime value and lower churn.
 
-## 📍 4. Geo-Target High-Performing Locations
-- Expand marketing and logistics efforts in top-performing states like:
-  - **South Dakota**, **New Jersey**, and **Kentucky**
-- Leverage high-revenue cities such as:
-  - **South Michael**, **New Michael**, and **Lake Michael**
-  - Launch localized campaigns, same-day delivery pilots, and pop-up experiences.
+4. Improve Conversion Funnel Efficiency
+Audit the end-to-end customer journey to identify drop-off points. Enhance landing page speed, simplify checkout navigation, and align messaging with advertising content. Conduct A/B testing on call-to-action placements and page layouts to drive improved conversion rates.
 
-## 💰 5. Optimize Discount Strategies
-- Stick to **low- and mid-level discounts**, which outperform high and no discounts in revenue and profitability.
-- Avoid over-discounting to protect profit margins.
-- Run **A/B testing** within discount tiers to optimize results.
+5. Focus on High-Profit and High-Demand Products
+Continue investment in Electronics and Sportswear, which lead in both revenue and profitability. Prioritize product categories such as Makeup, Bath & Body, Smartphones, and Appliances due to their high demand and strong margins. Reevaluate underperforming categories like Oral Care for repositioning or discontinuation.
 
-## 🧠 6. Leverage Behavioral Loyalty Patterns
-- With **85% of revenue** from **retained customers**, invest in:
-  - Loyalty programs
-  - Early access to products
-  - Exclusive rewards
-- Use **predictive churn models** to re-engage high-risk but high-value customers, especially in the **31–50 age group**.
+6. Target the Right Demographics
+The 31–50 age group represents the highest revenue but also the highest churn. Strengthen retention through loyalty programs, targeted messaging, and exclusive offers. Engage the 18–30 demographic using gamification, influencer partnerships, and student-focused discount strategies. Maintain momentum with the loyal 51–80 segment through consistent engagement.
 
-## 🌐 7. Channel Strategy: Invest in Winners
-- **Email marketing** performs best—scale:
-  - Personalization
-  - A/B testing
-  - List segmentation
-- Maintain strong **social media presence**, especially for younger audiences.
-- Reduce billboard spend and reinvest in **digital ads** and **in-app promotions**.
+7. Segment by Life Stage and Income
+Married customers demonstrate the highest loyalty and profitability. Tailor marketing campaigns around family-oriented bundles and long-term value. The mid-income group drives the highest revenue—leverage this segment with value-added offers such as free shipping and tiered loyalty rewards. Address the price sensitivity of the low-income group with bundle deals and flexible payment options.
 
-## 🛒 8. Channel Operations: Build on Strength
-- The **Online Store** leads in both revenue and profit—enhance with:
-  - Improved UX
-  - Personalized recommendations
-  - Easy return processes
-- The **Mobile App** underperforms—optimize:
-  - Mobile UX
-  - Push notification strategy
-  - Rewards for app-only purchases
-- Ensure consistency across **Retail** and **Marketplace** channels.
+8. Geo-Target High-Performing Locations
+Expand operational and promotional efforts in states with strong performance—South Dakota, New Jersey, and Kentucky. Capitalize on revenue-rich urban markets like South Michael, New Michael, and Lake Michael through hyper-local campaigns, same-day delivery pilots, and in-person pop-up experiences.
 
-## 📈 9. Monitor and Adapt to Educational and Behavioral Trends
-- Customers with **Bachelor's** and **High School degrees** contribute most to revenue.
-  - Offer clear product education and benefit-focused content.
-- Test **educational content marketing** (e.g., how-to videos, tutorials) to improve conversion.
+9. Optimize Discount Strategies
+Low and mid-level discounts are the most effective in driving revenue and protecting margins. Avoid aggressive discounting that could devalue the brand or impact profitability. Run A/B tests within discount tiers to optimize results across different product and customer segments.
 
-## ✅ 10. Maintain Operational Excellence
-- With ~**90% order completion** and <**9% failure**, current operations are efficient.
-  - Continue investing in:
-    - Fast and reliable logistics
-    - Transparent order tracking
-    - Efficient return and refund processing
+10. Leverage Behavioral Loyalty Patterns
+Given that 85% of revenue is generated by retained customers, continue investing in loyalty infrastructure—early access offers, reward tiers, and personalized shopping experiences. Apply predictive analytics to identify high-value customers at risk of churn and target them with win-back campaigns.
+
+11. Channel Strategy: Invest in High-Performing Marketing Channels
+Email marketing delivers the best performance and should be scaled through segmentation, automation, and A/B testing. Maintain and enhance Social Media strategies to engage younger demographics. Reduce or phase out traditional channels like Billboards, reallocating budget toward more efficient digital and in-app campaigns.
+
+12. Channel Operations: Strengthen High-Performing Platforms
+The Online Store remains the top-performing channel and should be enhanced with improved user interface design, personalized product recommendations, and streamlined returns. The Mobile App requires optimization—focus on improving navigation, engagement strategies, and app-specific offers. Ensure Retail and Marketplace channels remain consistent in delivery and user experience.
+
+13. Monitor and Respond to Educational and Behavioral Trends
+Customers with Bachelor's and High School degrees contribute the majority of revenue. Offer value-driven educational content—such as tutorials and product explainers—to support decision-making and boost conversions. Incorporate educational marketing as part of content strategy.
+
+14. Maintain Operational Excellence
+With nearly 90% of orders completed successfully and failure rates under 9%, operational performance is strong. Maintain this standard through continued investment in fast delivery systems, accurate order tracking, and streamlined return/refund processes.
 
 
 ## Conclusion:
