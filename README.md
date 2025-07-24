@@ -39,6 +39,8 @@ The data is organized across multiple tables:
 * `Products`: Product details including category, brand, and stock info.
 * `Marketing`: Campaign performance data across channels.
 * `Operations`: Operational data covering delivery status and fulfillment rates.
+  
+<img width="1137" height="348" alt="image" src="https://github.com/user-attachments/assets/836e2d7c-4ac4-45a5-9c9e-ed60df4edbf0" />
 
 ## Tool Used
 
