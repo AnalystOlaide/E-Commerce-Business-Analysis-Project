@@ -98,11 +98,7 @@ Regionally, South Dakota, New Jersey, and Kentucky led in revenue, while Colorad
 
 ## Insights Deep Dive
 
-<img width="992" height="561" alt="image" src="https://github.com/user-attachments/assets/c6e1e6d3-0537-4321-8954-af3e9921563f" />
-
-
-
-
+<img width="992" height="560" alt="image" src="https://github.com/user-attachments/assets/237cfbef-8fa0-4b6d-93e4-24c7598b9a2e" />
 
 The business generated $12.4 million in revenue, up from $9.2 million the previous year, reflecting a 34.4% year-over-year growth. However, the company reported a loss of -$16.5 million in profit, a sharp decline from $2.68 million profit in the prior year, marking a -715.2% year-over-year drop. Despite this financial setback, customer acquisition continued to rise, with the customer base reaching 50,000, up from 47,000—representing a 7% year-over-year growth and signaling ongoing market expansion.
 
